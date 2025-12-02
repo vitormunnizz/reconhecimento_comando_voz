@@ -1,9 +1,3 @@
-Aqui está o README.md no modelo solicitado:
-
----
-
-# Reconhecimento de Comando de Voz com Suavização
-
 ## Descrição do Projeto
 
 Este projeto tem como objetivo desenvolver um sistema de **Reconhecimento de Comando de Voz** utilizando técnicas de suavização de sinais. A suavização aplicada ajuda a melhorar a qualidade do áudio e o desempenho do reconhecimento, reduzindo ruídos e variações abruptas. A partir de amostras de áudio, o sistema extrai características, como **MFCCs** (Mel-Frequency Cepstral Coefficients), e utiliza classificadores de machine learning para identificar corretamente os comandos de voz.
@@ -49,6 +43,18 @@ Os resultados do projeto mostram uma melhora significativa no desempenho do reco
 - **Recall**: Percentual de verdadeiros positivos em relação a todos os positivos reais.
 - **F1 Score**: Média harmônica entre precisão e recall.
 
-## Contato
+## 👨‍💻 Autor
 
-Se você tiver dúvidas ou sugestões, entre em contato por [vitor13muniz09@gmail.com](mailto:vitor13muniz09@gmail.com).
+**Vitor Hugo Muniz de Sousa Santos**
+
+💼 Engenheiro de Computação | Cientista de Dados
+
+📧 [vitormunnizzdev@gmail.com](mailto:vitormunnizzdev@gmail.com)
+🌐 [www.linkedin.com/in/vitormunnizz](https://www.linkedin.com/in/vitormunnizz)
+
+## 📝 Licença
+
+Este projeto está licenciado sob a **MIT License**.
+Sinta-se livre para usar e modificar conforme necessário, mantendo os créditos ao autor.
+
+⭐ **Se este projeto te ajudou, deixe uma estrela no repositório!**
