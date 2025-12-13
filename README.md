@@ -43,18 +43,18 @@ Os resultados do projeto mostram uma melhora significativa no desempenho do reco
 - **Recall**: Percentual de verdadeiros positivos em relação a todos os positivos reais.
 - **F1 Score**: Média harmônica entre precisão e recall.
 
-## 👨‍💻 Autor
+## Autor
 
 **Vitor Hugo Muniz de Sousa Santos**
 
-💼 Engenheiro de Computação | Cientista de Dados
+Engenheiro de Computação | Cientista de Dados
 
-📧 [vitormunnizzdev@gmail.com](mailto:vitormunnizzdev@gmail.com)
-🌐 [www.linkedin.com/in/vitormunnizz](https://www.linkedin.com/in/vitormunnizz)
+[vitormunnizzdev@gmail.com](mailto:vitormunnizzdev@gmail.com)
+[www.linkedin.com/in/vitormunnizz](https://www.linkedin.com/in/vitormunnizz)
 
-## 📝 Licença
+## Licença
 
 Este projeto está licenciado sob a **MIT License**.
 Sinta-se livre para usar e modificar conforme necessário, mantendo os créditos ao autor.
 
-⭐ **Se este projeto te ajudou, deixe uma estrela no repositório!**
+**Se este projeto te ajudou, deixe uma estrela no repositório!**
